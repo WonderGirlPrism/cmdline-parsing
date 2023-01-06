@@ -1,1 +1,1 @@
-My first project
+Command-line utility / tool for data processing
